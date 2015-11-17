@@ -11,7 +11,7 @@ result1 = service.getTimeAsString
 result2 = service.getTimeAsElapsed
 
 puts "Current time is: #{result1}"
-puts "Elapsed milliseconds fromt the epoch: #{result2}"
+puts "Elapsed milliseconds from the epoch: #{result2}"
 =end
 
 require 'savon'
